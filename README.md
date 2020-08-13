@@ -1,5 +1,4 @@
 ![](header.png)
-[PT-BR]
 
 # Olá! 👋 
 
