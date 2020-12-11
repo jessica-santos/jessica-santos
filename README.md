@@ -8,7 +8,7 @@
 - 👩‍💻  Também participo de projetos de incentivo de mulheres na Tecnologia, mais especificamente na Ciência de Dados como o WiDS (Women in Data Science) e o bootcamp de Data Science da Womakerscode.
 
 ## Aqui estão algumas apresentações que já fiz:
-- Deep Learning in Images Médicas - WiDS SP 2020
+- Deep Learning in Images Médicas - WiDS SP 2019
     - [video](https://www.youtube.com/watch?v=Cp8tJ3X8x7k&list=PLcVzqDDcKJAxJDXnB3B1QM86dxHrjY8Tb)
     - [slides](https://docs.google.com/presentation/d/1_4I7WtxijOcjipCI8izyfh9AhB7p_L-VGZfTAkKSJaU/edit?usp=sharing)
 
